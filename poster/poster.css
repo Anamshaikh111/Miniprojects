@@ -1,0 +1,109 @@
+
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: linear-gradient(135deg, #1a0033, #2b2e83);
+      color: white;
+    }
+
+    .poster-header {
+      background: #ff0055;
+      padding: 10px;
+      text-align: center;
+      font-weight: bold;
+      font-size: 25px;
+      letter-spacing: 3px;
+    }
+
+    .music-icon {
+      text-align: center;
+      font-size: 28px;
+      color: #00ff66;
+      margin: 20px 0;
+    }
+
+    .sectionone {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-evenly;
+
+    }
+   
+    .hero-btn {
+      border: 2px solid #ff0055;
+      color: white;
+      background: transparent;
+      padding: 10px 25px;
+      border-radius: 5px;
+    }
+
+    .hero-btn:hover {
+      background: #ff0055;
+      color: white;
+    }
+
+  
+    .buy-card {
+      background: rgb(55, 60, 71);
+      border: 1px solid rgb(255, 255, 255);
+      border-radius: 10px;
+      padding: 30px;
+      text-align: center;
+    }
+
+    .card-price {
+      font-size: 25px;
+      margin: 10px 0;
+      color: #ff4da6;
+      font-weight: bold;
+    }
+
+    .name {
+      color: rgb(255, 255, 255);
+    }
+
+    .card-btn {
+      background: red;
+      border: none;
+      padding: 8px 20px;
+      border-radius: 5px;
+      color: white;
+      font-weight: bold;
+    }
+
+    .card-btn:hover {
+      background: #cc0000;
+    }
+
+    .sectiontwo {
+       
+        height: 70vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-evenly;
+
+    }    
+    .sectionthree {
+    .accordion-button {
+      background: #1f1f3d;
+      color: white;
+    }
+
+    .accordion-button:not(.collapsed) {
+      background: #2b2e83;
+      color: white;
+    }
+
+    .accordion-body {
+      background: #14142b;
+      color: #ccc;
+    }
+    }
+ 
+    .footer-name {
+      color: rgb(255, 255, 255);
+    }
+
+   
